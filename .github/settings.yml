@@ -1,0 +1,11 @@
+# .github/settings.yml
+# Define branch protection rules for the main branch
+# branch_protection_rules:
+#   - name: 'main'
+#     required_approving_review_count: 1
+#     require_code_owner_reviews: true
+#     dismiss_stale_reviews: true
+#     restrictions:
+#       users: ['arminanton']
+#      teams:
+#        - <org-name>/<team-name>
